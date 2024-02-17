@@ -496,6 +496,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="DecorationPatch.cs" />
+        <Compile Include="EventPatch.cs" />
         <Compile Include="Main.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>

@@ -4,7 +4,7 @@
 ![Download](https://img.shields.io/github/downloads/Jongye0l/ShowDecoCount/ShowDecoCount.zip)
 ---
 ### 소개 Information
-* 얼불춤에 장식의 개수를 표시해 줍니다.
+* 얼불춤에 장식, 이벤트의 개수를 표시해 줍니다.
 ---
 ### 사용 방법 How to use
 * [이 링크](https://github.com/Jongye0l/ShowDecoCount/releases/latest) 에서 다운로드 후 모드매니저를 통해 적용시키면 됩니다.
